@@ -1,0 +1,18 @@
+ Front-end Usuários (React)
+
+Aplicação React que consome uma API Node.js.
+
+Funcionalidades
+- Cadastrar usuários
+- Listar usuários
+- Deletar usuários
+
+Tecnologias
+- React
+- Vite
+- Fetch API
+
+Como rodar
+```bash
+npm install
+npm run dev
