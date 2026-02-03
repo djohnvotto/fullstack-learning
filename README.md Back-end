@@ -1,0 +1,20 @@
+API simples de usuários criada com Node.js e Express.      
+Funcionalidades
+- Criar usuário
+- Listar usuários
+- Deletar usuário
+
+Tecnologias
+- Node.js
+- Express
+- CORS
+
+Como rodar o projeto
+
+```bash
+npm install
+node index.js
+{
+  "name": "João",
+  "email": "joao@email.com"
+}
